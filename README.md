@@ -1,7 +1,7 @@
 # Kalango
 
 
-#  PROJETO: Kamaleão
+#  PROJETO: Kmaleão
 
 NOME DA EQUIPE: Kalango	Período de Execução
 	Data de início:
